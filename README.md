@@ -1,7 +1,7 @@
 # Nummern
 
 <p align="center">
-<img height="150" width="auto" src="https:/nulldev.org/img/nul.jpeg" /><br>
+<img height="150" width="auto" src="https://nulldev.org/img/nul.png" /><br>
 Package to spell out numbers
 </p>
 
