@@ -1,9 +1,9 @@
 {
     "name": "nummern",
-    "version": "0.2.0",
+    "version": "0.1.0",
     "description": "Package to spell numbers",
     "main": "index.js",
-    "dependencies": {},
+    "dependencies": {  },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/NLDev/nummern.git"
