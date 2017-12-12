@@ -9,6 +9,8 @@ Package to spell out numbers
 
 This NodeJS package allows you to convert numbers to text. It will spell out the whole numbers. 
 
+(Nummern is german for 'Numbers')
+
 > **`123`** -> one hundred twenty-three <br>
 > **`2.5`** -> two point five one <br>
 > **`-40`** -> minus forty
