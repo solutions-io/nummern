@@ -1,0 +1,30 @@
+{
+    "name": "nummern",
+    "version": "0.1.0",
+    "description": "Package to spell numbers",
+    "main": "index.js",
+    "dependencies": {  },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NLDev/nummern.git"
+    },
+    "maintainers": [
+        {
+            "name": "NullDev",
+            "email": "admin@nulldev.org",
+            "web": "nulldev.org"
+        }
+    ],
+    "keywords": [
+        "numbers",
+        "numbers2text",
+        "spell",
+        "nummern"
+    ],
+    "author": "NullDev",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/NLDev/nummern/issues"
+    },
+    "homepage": "https://github.com/NLDev/nummern#readme"
+}
