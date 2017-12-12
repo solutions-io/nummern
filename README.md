@@ -38,6 +38,7 @@ npm i nummern
 - Multiple Languages
 - Point numbers
 - Negative numbers
+- zero dependencies
 
 <hr>
 
