@@ -43,7 +43,7 @@ npm i nummern
 
 ## :bulb: Usage
 
-### Search:
+### Convert:
 
 
 ```javascript
@@ -70,6 +70,6 @@ console.log(nr(201.5, "english"));
 
 <hr>
 
-## :copyright: Copyright & Disclaimer
+## :copyright: Copyright
 
 `Copyright (c) 2017 NullDev`
