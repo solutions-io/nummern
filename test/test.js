@@ -12,7 +12,7 @@ console.log("1234    = " + nummern(1234   ));
 
 console.log("-100    = " + nummern(-100   ));
 
-console.log("122.45  = " + nummern(122.45 ));
+console.log("122.045 = " + nummern(122.045));
 
 console.log("-1      = " + nummern(-1     ));
 
@@ -30,7 +30,7 @@ console.log("1234    = " + nummern(1234,    "german"));
 
 console.log("-100    = " + nummern(-100,    "german"));
 
-console.log("122.45  = " + nummern(122.45,  "german"));
+console.log("122.045 = " + nummern(122.045, "german"));
 
 console.log("-1      = " + nummern(-1,      "german"));
 
