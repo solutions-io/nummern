@@ -18,6 +18,8 @@ console.log("-1      = " + nummern(-1     ));
 
 console.log("1000000 = " + nummern(1000000));
 
+console.log("-902.09 = " + nummern(-902.09));
+
 console.log("100000  = " + nummern(100000 ));
 
 console.log();
@@ -35,6 +37,8 @@ console.log("122.045 = " + nummern(122.045, "german"));
 console.log("-1      = " + nummern(-1,      "german"));
 
 console.log("1000000 = " + nummern(1000000, "german"));
+
+console.log("-902.09 = " + nummern(-902.09, "german"));
 
 console.log("100000  = " + nummern(100000,  "german"));
 
