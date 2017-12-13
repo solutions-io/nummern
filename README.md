@@ -67,8 +67,8 @@ console.log(nr(100));
 console.log(nr(1, "german"));
 // => "eins"
 
-console.log(nr(201.5, "english"));
-// => "one hundred twenty-two point four five"
+console.log(nr(201.045, "english"));
+// => "one hundred twenty-two point zero four five"
 ```
 
 <hr>
