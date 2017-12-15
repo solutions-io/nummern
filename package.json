@@ -1,6 +1,6 @@
 {
     "name": "nummern",
-    "version": "0.1.3",
+    "version": "1.0.0",
     "description": "Package to spell numbers",
     "main": "index.js",
     "dependencies": {},
