@@ -33,8 +33,9 @@ npm i nummern
   
 | Language | Included |
 | :---: | :---: |
-| English | :heavy_check_mark: | 
-| German  | :heavy_check_mark: | 
+| English                | :heavy_check_mark: | 
+| German                 | :heavy_check_mark: | 
+| Bosnian (experimental) | :heavy_check_mark: | 
 
 - Error handling
 - Multiple Languages
@@ -69,6 +70,9 @@ console.log(nr(1, "german"));
 
 console.log(nr(201.045, "english"));
 // => "one hundred twenty-two point zero four five"
+
+console.log(nr(12, "bosnian"));
+// => "dvanaest"
 ```
 
 <hr>
