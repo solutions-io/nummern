@@ -69,7 +69,7 @@ console.log(nr(1, "german"));
 // => "eins"
 
 console.log(nr(201.045, "english"));
-// => "one hundred twenty-two point zero four five"
+// => "two hundred one point zero four five"
 
 console.log(nr(12, "bosnian"));
 // => "dvanaest"
