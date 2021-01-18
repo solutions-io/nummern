@@ -6,7 +6,7 @@
     "dependencies": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/NLDev/nummern.git"
+        "url": "git+https://github.com/NullDev/nummern.git"
     },
     "maintainers": [
         {
@@ -24,7 +24,7 @@
     "author": "NullDev",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/NLDev/nummern/issues"
+        "url": "https://github.com/NullDev/nummern/issues"
     },
-    "homepage": "https://github.com/NLDev/nummern#readme"
+    "homepage": "https://github.com/NullDev/nummern#readme"
 }
