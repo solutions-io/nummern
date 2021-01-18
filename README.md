@@ -79,4 +79,4 @@ console.log(nr(12, "bosnian"));
 
 ## :copyright: Copyright
 
-`Copyright (c) 2017 NullDev`
+`Copyright (c) NullDev`
